@@ -1,4 +1,17 @@
-# Admin page 
+# vol.2
+
+- admin page2
+
+- reset.css을 설치해 백지화로 초기화 
+
+
+
+
+
+
+
+
+# Admin page vol.1
 - lite-server 를 이용한 빌드 태스트 
 - reset-css 를 이용하여 css에 잡다한 설정을 지우고 다시 시작 
 - 구글에서 지원해주는 폰트 이용하여 body 적용 
