@@ -122,7 +122,7 @@ body{
   display: none;
 }
 
-.main_items > .main_item_link_submenu:hover {
+.main_items:hover > .main_item_link_submenu {
   background-color: #1E2124;
 }
 
